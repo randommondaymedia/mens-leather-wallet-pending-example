@@ -9,9 +9,14 @@ import vercel from '@astrojs/vercel/serverless';
 // the @astrojs/sitemap integration — the integration crashes on hybrid +
 // vercel adapter combos (reads result.pages = undefined). The hand-rolled
 // version reads pages.json directly and is trivial to maintain.
+//
+// We deliberately do NOT set `trailingSlash: 'always'` here. With hybrid
+// output + the Vercel adapter, that triggers an infinite redirect loop
+// (ERR_TOO_MANY_REDIRECTS) because the adapter's routing and Astro's
+// trailing-slash middleware fight over which canonicalization wins.
+// Astro's default ('ignore') matches Vercel's behavior.
 export default defineConfig({
   site: 'https://mens-leather-wallet-pending.example',
   output: 'hybrid',
   adapter: vercel(),
-  trailingSlash: 'always',
 });
