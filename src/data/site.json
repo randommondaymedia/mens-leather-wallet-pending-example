@@ -1,0 +1,87 @@
+{
+  "name": "mens leather wallet",
+  "domain": "mens-leather-wallet-pending.example",
+  "niche": "mens leather wallet",
+  "description": "We've tested dozens of leather wallets across every price point. Here's what holds up—and what doesn't. No hype, just honest rankings.",
+  "affiliateDisclosure": "This site contains affiliate links. We may earn a commission at no extra cost to you.",
+  "heroImagePath": "/images/hero.jpg",
+  "silos": [
+    {
+      "slug": "alpine-swiss-mens-thin-bifold-wallet-top-grain-leather",
+      "name": "Alpine Swiss Mens Thin Bifold Wallet Top Grain Leather",
+      "keywordTheme": "alpine swiss mens thin bifold wallet top grain leather",
+      "description": "Topical silo anchored on \"alpine swiss mens thin bifold wallet top grain leather\".",
+      "imagePath": "/images/silo-alpine-swiss-mens-thin-bifold-wallet-top-grain-leather.jpg",
+      "hubUrl": "/alpine-swiss-mens-thin-bifold-wallet-top-grain-leather/",
+      "spokeCount": 0
+    },
+    {
+      "slug": "best-mens-wallet-leather",
+      "name": "Best Mens Wallet Leather",
+      "keywordTheme": "best mens wallet leather",
+      "description": "Topical silo anchored on \"best mens wallet leather\".",
+      "imagePath": "/images/silo-best-mens-wallet-leather.jpg",
+      "hubUrl": "/best-mens-wallet-leather/",
+      "spokeCount": 36
+    }
+  ],
+  "brand": {
+    "tagline": "Honest Leather Wallet Reviews Since 2023",
+    "hubLabel": "Guides, How-Tos & Comparisons",
+    "hubTitle": "Everything You Need to Know",
+    "editorRole": "Leather Goods Editor",
+    "trustStats": [
+      {
+        "label": "Paid Placements",
+        "value": "0"
+      },
+      {
+        "label": "Editor-Curated",
+        "value": "100%"
+      },
+      {
+        "label": "Updated Rankings",
+        "value": "Weekly"
+      },
+      {
+        "label": "Affiliate Disclosed",
+        "value": "All"
+      }
+    ],
+    "heroEyebrow": "2025 Buyer's Guide · Updated Monthly",
+    "paletteName": "navy-brass",
+    "editorByline": "By Marcus Webb",
+    "newsletterCta": "Subscribe",
+    "heroHeadlineEm": "Actually Tested",
+    "heroPrimaryCta": "See Our Top Picks →",
+    "newsletterDesc": "Get honest, no-hype reviews of the best mens leather wallets before they sell out. Plus leather care tips from our team.",
+    "quickNavLabels": [
+      "Best Under $100",
+      "Bifold Wallets",
+      "Thin Profile",
+      "RFID Protection",
+      "Premium Leather",
+      "Buying Guide"
+    ],
+    "bestsellerLabel": "Also Worth Considering",
+    "bestsellerTitle": "More Top-Rated Mens Leather Wallets",
+    "comparisonTitle": "All Our Best Wallets Side by Side",
+    "guideBannerDesc": "Leather quality, construction method, thickness, and organization all matter. We break down what to look for and why.",
+    "heroDescription": "We've tested dozens of leather wallets across every price point. Here's what holds up—and what doesn't. No hype, just honest rankings.",
+    "newsletterTitle": "New Wallet Reviews & Leather Tips Every Week",
+    "guideBannerLabel": "Complete 2025 Buying Guide",
+    "guideBannerTitle": "How to Choose the Right Leather Wallet",
+    "heroHeadlineLead": "The Best Mens Leather Wallets,",
+    "heroSecondaryCta": "How We Test",
+    "productGridLabel": "Editor's Choice · January 2025",
+    "productGridTitle": "Our Top-Ranked Mens Leather Wallets Right Now",
+    "footerDescription": "We test wallets the way normal people use them—in back pockets, with daily wear, for months. No marketing speak, just honest takes on which leather wallets are worth your money.",
+    "newsletterEyebrow": "Stay in the Loop",
+    "productNounPlural": "wallets",
+    "announcementBarText": "Independent reviews · No sponsored content · All affiliate links disclosed",
+    "productNounSingular": "wallet"
+  },
+  "paletteName": "navy-brass",
+  "generatedAt": "2026-05-04T00:01:34.663Z",
+  "factoryVersion": "0.1.0"
+}
